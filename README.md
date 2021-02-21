@@ -1,2 +1,2 @@
-# Jolichix
+# MichWix
 Mind meld
